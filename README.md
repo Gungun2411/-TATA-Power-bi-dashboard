@@ -26,10 +26,7 @@ This project is an interactive **Power BI dashboard** designed to analyze and vi
 - **Microsoft Power BI**
 - **Excel / CSV Dataset**
 
----
 
-## 📂 Project Files
-- `tata.pbix` – Power BI dashboard file
 
 ---
 
