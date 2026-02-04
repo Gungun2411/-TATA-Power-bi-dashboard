@@ -43,10 +43,6 @@ The Power BI file has been optimized by removing unnecessary columns and unused 
 
 ---
 
-## 📸 Dashboard Preview
-_Add dashboard screenshots here for better presentation_
-
----
 
 ## 🧠 Skills & Learnings
 - Data cleaning and transformation  
